@@ -1,7 +1,7 @@
 import copy
 from collections import defaultdict
 
-#can be run by python3.7 -m cart.py
+#can be run by python3.7 -m cart
 
 class Category:
 
